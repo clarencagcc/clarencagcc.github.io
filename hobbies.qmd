@@ -1,0 +1,40 @@
+---
+title: "Hobbies"
+format: 
+  html:
+    embed-resources: true
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Cycling
+
+I like cycling is very fun
+
+## Cooking Foods
+
+Here is one my my favourite foods to cook ! its a filipino dish called
+**Kaldereta**
+
+It is a hearty meat dish using chevon (goat meat), beef, or pork
+combined with potatoes, carrots, tomato sauce, and liver spread or liver
+paste. This is a popular dish served during special occasions and a
+regular in every Filipino cookbook.
+
+### Ingredients
+
+-   2 lbs beef
+-   3 garlic cloves
+-   1 onion
+-   beef broth
+-   red bell pepper
+-   tomato sauce
+-   live spread
+-   chili flakes
+-   potatoes
+-   carrots
+
+### This is the video i followed while learning to cook this dish !
+
+{{< video https://www.youtube.com/watch?v=yI7hTz0ft5k>}}

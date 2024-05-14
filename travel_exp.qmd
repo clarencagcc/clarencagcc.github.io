@@ -1,0 +1,53 @@
+---
+title: "Travel Experiences"
+format: 
+  html:
+    embed-resources: true
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## Philippines
+
+It was an overall enjoyable trip. The weather was awesome, the private
+water tours memorable and the Filipino food delicious.
+
+**The best parts:**
+
+-   The excelent level of communications with Philippines EVANEOS vendor
+    Junji.
+-   Working with Junji to have the best 22 day itinerary.
+-   Excelent transportation and coordination within Country.
+-   Good itinerary pace, with free time to explore areas on our own.
+    Great selection of private tours.
+-   Most of the hotels were great.
+-   It was a great trip!
+
+**The worst parts:**
+
+-   Not worst part, but it was annoying: WNOTE: Most of the hotels were
+    great! Hovever, there were two hotels that did not meet
+    expectations. To be fare, I am not sure if it was due to room
+    availability or available hotel choices (\*\*\*\*\*\* (2nights
+    -uneven floors and\*\*\*\*\*\*(4 nights - shower overlapping with
+    toilet area).
+
+![Philippines](images/philippines.jpg)
+
+## Japan
+The first time I visited Japan was in the Spring this year and I loved it so much I booked straight away again through Evaneos and insisted on Yuri as my travel planner as before.
+On my first trip I flew back from Osaka and the night before I met a delightful couple from Hiroshima who urged me to visit.... So this time I did and was amazed to find a really lovely city and do welcoming....such lovely people....and later also in Nagasaki. Kyushu is beautiful with many fishing villages and harbours and I certainly intend to return.
+
+**The best parts:**
+
+- Everything..... Japan fascinates me at every turn
+
+**The worst parts:**
+
+- Packing to journey home!
+
+| ![Image 1](images/jp1.jpg) | ![Image 2](images/jp2.jpg) |
+|------------------------|------------------------|
+| ![Image 3](images/jp3.jpg) | ![Image 4](images/jp4.jpg) |
+

@@ -8,7 +8,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: hobbies.qmd
+        text: Hobbies
+      - href: travel_exp.qmd
+        text: Travel Experiences
 
 format:
   html:
